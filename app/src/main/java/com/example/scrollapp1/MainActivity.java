@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         plList = findViewById(R.id.tv_pl_names);
 
-        String[] names = {"H","eцу","l","l","o","","w","o","r","l","d","","my","name","is","Nikita","^_^"};
+        String[] names = {"H","e","l","l","o","","w","o","r","l","d","","my","name","is","Nikita","^_^"};
 
         plList.setText("");
         for(String name : names) {
